@@ -1,2 +1,2 @@
-# RegardsPDF
-PDF Manager
+# RegardsModel
+Dataset for Regards Applications
